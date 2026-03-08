@@ -27,7 +27,7 @@ logo.AnchorPoint = Vector2.new(0.5,0.5)
 logo.Position = UDim2.new(0.5,0,0.45,0)
 logo.Size = UDim2.new(0,0,0,0)
 logo.BackgroundTransparency = 1
-logo.Image = "rbxassetid://74308114032840"
+logo.Image = "rbxassetid://108459028265378"
 logo.Parent = bg
 
 local glow = Instance.new("UIStroke")
